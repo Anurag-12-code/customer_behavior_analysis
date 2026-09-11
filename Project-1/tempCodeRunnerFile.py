@@ -1,0 +1,1 @@
+df = df.rename(columns={'purchase_amount_(usd)':'purchase_amount'})
